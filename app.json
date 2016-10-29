@@ -14,7 +14,7 @@
     "Demo"
   ],
   "website": "https://twilio.com/docs/howto/walkthrough/video-service/",
-  "repository": "https://github.com/TwilioDevEd/video-service-rails",
+  "repository": "https://github.com/illiatdesdindes/video-service-rails",
   "logo": "https://s3-us-west-2.amazonaws.com/deved/twilio-logo.png",
   "success_url": "/landing.html",
   "env": {
