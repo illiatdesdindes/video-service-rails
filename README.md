@@ -5,7 +5,7 @@ step-by-step tutorial, [visit this link](https://twilio.com/docs/howto/walkthrou
 
 Deploy this example app to Heroku now!
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/TwilioDevEd/video-service-rails)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/illiatdesdindes/video-service-rails)
 
 ## Installation
 
@@ -15,7 +15,7 @@ Step-by-step on how to deploy, configure and develop on this example app.
 
 Use Heroku to deploy this app immediately:
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/TwilioDevEd/video-service-rails)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/illiatdesdindes/video-service-rails)
 
 ### Getting Started 
 
