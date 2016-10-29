@@ -15,8 +15,8 @@ gem 'turbolinks'
 gem 'jbuilder', '~> 2.0'
 # Validate phone numbers easily
 gem 'phony_rails'
-# Twilio REST API. 
-gem 'twilio-ruby', :path => '/Users/kwhinnery/dev/ruby-private'
+# Twilio REST API.
+gem 'twilio-ruby', '4.1.0'
 # Star Wars API from Phil Nash. https://github.com/philnash/tatooine
 gem 'tatooine'
 group :development, :test do
